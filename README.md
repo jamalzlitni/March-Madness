@@ -1,5 +1,4 @@
 # March-Madness
-March Madness Predictive Analysis
 Welcome to my March Madness Jupyter Lab project! This analysis explores the secrets behind successful NCAA basketball predictions. Leveraging Python, data visualization tools, and statistical modeling, I delved into team statistics, seeding odds, upset trends, and conference performances. Uncover valuable insights for your March Madness predictions and enjoy the thrill of the game!
 
 Project Highlights:
